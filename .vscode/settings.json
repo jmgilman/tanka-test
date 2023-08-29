@@ -1,0 +1,7 @@
+{
+    "jsonnet.lsp.fmt.stringStyle": "'",
+    "jsonnet.lsp.jpaths": [
+        "src/kube/lib",
+        "src/kube/vendor"
+    ]
+}
